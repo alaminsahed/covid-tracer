@@ -7,12 +7,15 @@ This app shows recent and total covid patient, recovery patient and deth.
 * React-bootstrap
 
 ### Project Demo
-[Imgur](https://i.imgur.com/joB3WVD.png)
+<img  alt="project "  src="https://i.imgur.com/joB3WVD.png" />
+
+
+<br/>
 
 
 ### Key Laerning:
 * React.js Basic
-* API interigation
+* API integration
 
 <br/>
 
