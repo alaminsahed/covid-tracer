@@ -4,6 +4,7 @@ This app shows recent and total covid patient, recovery patient and deth.
 ### Used Technology:
 * JSX
 * CSS
+* React.js
 * React-bootstrap
 
 ### Project Demo
